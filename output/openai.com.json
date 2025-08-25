@@ -1,0 +1,8 @@
+{
+  "url": "https://openai.com/research",
+  "domain": "openai.com",
+  "timestamp": "2025-08-25T06:37:29.129800+00:00",
+  "error": "403 Client Error: Forbidden for url: https://openai.com/research",
+  "snapshot": null,
+  "signals": {}
+}

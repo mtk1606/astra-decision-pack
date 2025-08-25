@@ -1,0 +1,16 @@
+{
+  "url": "https://news.ycombinator.com/",
+  "domain": "news.ycombinator.com",
+  "timestamp": "2025-08-25T06:37:28.605463+00:00",
+  "error": null,
+  "snapshot": "output\\snapshots\\news.ycombinator.com_20250825T063729Z.html",
+  "signals": {
+    "hn_titles": [
+      "Git-Annex",
+      "branchable.com",
+      "Bro, ban me at the IP level if you don't like me",
+      "conman.org",
+      "What Are OKLCH Colors?"
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "url": "https://techcrunch.com/startups/",
+  "domain": "techcrunch.com",
+  "timestamp": "2025-08-25T06:37:27.581204+00:00",
+  "error": null,
+  "snapshot": "output\\snapshots\\techcrunch.com_20250825T063728Z.html",
+  "signals": {
+    "headlines_paragraphs": [
+      "Tech startup news that breaks down the funding, growth, and long-term trajectory of companies across every stage and industry. Startup coverage includes climate, crypto, fintech, SaaS, transportation, and consumer tech.",
+      "Pintarnya raises $16.7M to power jobs and financial services in Indonesia",
+      "Elon Musk says xAI has open sourced Grok 2.5",
+      "Amazon AGI Labs chief defends his reverse acquihire",
+      "Aspiration co-founder to plead guilty to $248M fraud scheme"
+    ],
+    "lists": [
+      [
+        "Latest",
+        "Startups",
+        "Venture",
+        "Apple",
+        "Security",
+        "AI",
+        "Apps"
+      ],
+      [
+        "Events",
+        "Podcasts",
+        "Newsletters"
+      ],
+      [
+        "StartupsPintarnya raises $16.7M to power jobs and financial services in IndonesiaKate Park9 hours ago",
+        "Kate Park",
+        "In BriefElon Musk says xAI has open sourced Grok 2.5Anthony Ha17 hours ago",
+        "Anthony Ha",
+        "In BriefAmazon AGI Labs chief defends his reverse acquihireAnthony Ha1 day ago",
+        "Anthony Ha",
+        "FintechAspiration co-founder to plead guilty to $248M fraud schemeTim De Chant3 days ago",
+        "Tim De Chant",
+        "TransportationYC-backed Oway raises $4M to build a decentralized ‘Uber for freight’Sean O'Kane3 days ago",
+        "Sean O'Kane",
+        "AIOpenAI announces New Delhi office as it expands footprint in IndiaJagmeet Singh3 days ago",
+        "Jagmeet Singh",
+        "GamingAs India bans real-money games, Dream Sports, MPL start pulling the plugJagmeet Singh3 days ago",
+        "Jagmeet Singh",
+        "StartupsEcosia has offered to take ‘stewardship’ of Chrome. And it’s not a bad idea.Julie Bort3 days ago",
+        "Julie Bort",
+        "TechCrunch Disrupt 2025StrictlyVC at TechCrunch Disrupt 2025: Inside the LP TrackTechCrunch Events4 days ago",
+        "TechCrunch Events",
+        "VentureRaising multiple rounds of venture capital might be wrong for your startupJulie Bort4 days ago",
+        "Julie Bort",
+        "TechCrunch Disrupt 2025Space is open for business with Even Rogers and Max Haot at TechCrunch Disrupt 2025TechCrunch Events4 days ago",
+        "TechCrunch Events",
+        "GamingIndia bans real-money gaming, threatening a $23 billion industryJagmeet Singh4 days ago",
+        "Jagmeet Singh",
+        "StartupsWhy SecurityPal is choosing ‘nuanced capital’ over more VC roundsTheresa LoconsoloJulie Bort4 days ago",
+        "Theresa Loconsolo",
+        "Julie Bort",
+        "GadgetsDex is an AI-powered camera device that helps children learn new languagesLauren Forristal5 days ago",
+        "Lauren Forristal",
+        "SecurityNew zero-day startup offers $20 million for tools that can hack any smartphoneLorenzo Franceschi-Bicchierai5 days ago",
+        "Lorenzo Franceschi-Bicchierai",
+        "RoboticsFieldAI raises $405M to build universal robot brainsRebecca Szkutak5 days ago",
+        "Rebecca Szkutak",
+        "VentureY Combinator alum SRE.ai raises $7.2M for DevOps AI agentsDominic-Madori DavisAug 20, 2025",
+        "Dominic-Madori Davis",
+        "VentureYC-backed Garage raises $13.5M to help firefighters buy equipmentDominic-Madori DavisAug 20, 2025",
+        "Dominic-Madori Davis",
+        "StartupsDeel scores a lawsuit win, but not against RipplingJulie BortAug 19, 2025",
+        "Julie Bort",
+        "TechCrunch Disrupt 2025Discover how developer tools are shifting fast with Lauri Moore and David Cramer at TechCrunch Disrupt 2025TechCrunch EventsAug 19, 2025",
+        "TechCrunch Events",
+        "VentureDatabricks CEO says fresh $1B will help him attack a new AI database marketJulie BortAug 19, 2025",
+        "Julie Bort",
+        "TechCrunch Disrupt 2025Your next customer is on the TechCrunch Disrupt 2025 expo floor — will they find you or your competitor?TechCrunch EventsAug 19, 2025",
+        "TechCrunch Events",
+        "GamingIndia’s government to propose blanket ban on real-money gamingJagmeet SinghAug 19, 2025",
+        "Jagmeet Singh",
+        "EnterpriseCPG startup Keychain snags $30M to build in India, grow in the USJagmeet SinghAug 19, 2025",
+        "Jagmeet Singh",
+        "StartupsAI crawler Firecrawl raises $14.5M, is still looking to hire agents as employeesJulie BortAug 19, 2025",
+        "Julie Bort",
+        "TechCrunch Disrupt 2025The wait is almost over: The 2025 Startup Battlefield 200 list drops August 27Isabelle JohannessenAug 18, 2025",
+        "Isabelle Johannessen",
+        "StartupsWhy Paradigm built a spreadsheet with an AI agent in every cellRebecca SzkutakAug 18, 2025",
+        "Rebecca Szkutak",
+        "SocialLinktree goes dark in India — and the company isn’t sure whyJagmeet SinghAug 18, 2025",
+        "Jagmeet Singh",
+        "AIAnthropic says some Claude models can now end ‘harmful or abusive’ conversationsAnthony HaAug 16, 2025",
+        "Anthony Ha",
+        "AppsLes Amis, the European app helping women form friendships, launches in New YorkLauren ForristalAug 15, 2025",
+        "Lauren Forristal"
+      ],
+      [
+        "Kate Park"
+      ],
+      [
+        "Anthony Ha"
+      ]
+    ],
+    "prices": [
+      "$1",
+      "$13",
+      "$14",
+      "$16",
+      "$20"
+    ]
+  }
+}
