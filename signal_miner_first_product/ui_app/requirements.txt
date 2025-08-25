@@ -1,0 +1,10 @@
+streamlit
+openai>=1.30.0
+pinecone-client>=3.0.0
+faiss-cpu; sys_platform != 'win32'
+faiss-cpu==1.7.4; sys_platform == 'win32'
+numpy
+requests
+beautifulsoup4
+lxml
+PyGithub>=2.0.0

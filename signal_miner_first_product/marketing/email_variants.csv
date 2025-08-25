@@ -1,0 +1,371 @@
+template_id,subject_a,subject_b,from_name,from_email,plain_text,html_snippet,utm_source,utm_medium,utm_campaign
+1,"Turn competitor signals into growth experiments in 48 hours","Your competitors are leaving growth experiments on the table","GrowthSignal Team","hello@growthsignal.ai","Hi [First Name],
+
+I noticed you're focused on data-driven growth at [Company]. 
+
+What if you could turn your competitors' public signals into actionable growth experiments in 48 hours?
+
+GrowthSignal automatically:
+• Mines competitor websites for pricing, features, and messaging changes
+• Uses AI to generate evidence-backed Decision Packs
+• Creates ready-to-ship assets (LP snippets, email sequences, PR drafts)
+• Handles GitHub PR creation for safe execution
+
+We're helping growth teams at companies like [Similar Company] ship experiments 10x faster.
+
+Want to see how it works? Check out our live demo:
+https://growthsignal.ai/demo?utm_source=email&utm_medium=direct&utm_campaign=competitor_signals
+
+Best,
+[Your Name]
+GrowthSignal","<div style='font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;'>
+<p>Hi [First Name],</p>
+<p>I noticed you're focused on data-driven growth at <strong>[Company]</strong>.</p>
+<p>What if you could turn your competitors' public signals into actionable growth experiments in <strong>48 hours</strong>?</p>
+<div style='background: #f8f9fa; padding: 20px; border-radius: 8px; margin: 20px 0;'>
+<p><strong>GrowthSignal automatically:</strong></p>
+<ul>
+<li>Mines competitor websites for pricing, features, and messaging changes</li>
+<li>Uses AI to generate evidence-backed Decision Packs</li>
+<li>Creates ready-to-ship assets (LP snippets, email sequences, PR drafts)</li>
+<li>Handles GitHub PR creation for safe execution</li>
+</ul>
+</div>
+<p>We're helping growth teams at companies like <strong>[Similar Company]</strong> ship experiments 10x faster.</p>
+<p><a href='https://growthsignal.ai/demo?utm_source=email&utm_medium=direct&utm_campaign=competitor_signals' style='background: #007bff; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; display: inline-block;'>See Live Demo</a></p>
+<p>Best,<br>[Your Name]<br>GrowthSignal</p>
+</div>","email","direct","competitor_signals"
+2,"Your growth experiments are taking too long to ship","Stop manually analyzing competitors - automate it","GrowthSignal Team","hello@growthsignal.ai","Hi [First Name],
+
+How long does it take your team to:
+• Research competitor changes
+• Analyze the data
+• Create hypothesis
+• Build landing pages
+• Write email sequences
+• Ship the experiment
+
+If you're like most growth teams, it's weeks or months.
+
+GrowthSignal reduces this to 48 hours by automating the entire workflow from signal detection to PR creation.
+
+We're currently onboarding 5 growth teams for our pilot program. Each gets:
+• Full access to the platform
+• Dedicated onboarding support
+• 3 months of usage data
+• Priority feature requests
+
+Interested in joining? Apply here:
+https://growthsignal.ai/pilot?utm_source=email&utm_medium=direct&utm_campaign=pilot_program
+
+[Your Name]
+GrowthSignal","<div style='font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;'>
+<p>Hi [First Name],</p>
+<p>How long does it take your team to:</p>
+<ul>
+<li>Research competitor changes</li>
+<li>Analyze the data</li>
+<li>Create hypothesis</li>
+<li>Build landing pages</li>
+<li>Write email sequences</li>
+<li>Ship the experiment</li>
+</ul>
+<p>If you're like most growth teams, it's <strong>weeks or months</strong>.</p>
+<p>GrowthSignal reduces this to <strong>48 hours</strong> by automating the entire workflow from signal detection to PR creation.</p>
+<div style='background: #e8f5e8; padding: 20px; border-radius: 8px; margin: 20px 0;'>
+<p><strong>We're currently onboarding 5 growth teams for our pilot program. Each gets:</strong></p>
+<ul>
+<li>Full access to the platform</li>
+<li>Dedicated onboarding support</li>
+<li>3 months of usage data</li>
+<li>Priority feature requests</li>
+</ul>
+</div>
+<p><a href='https://growthsignal.ai/pilot?utm_source=email&utm_medium=direct&utm_campaign=pilot_program' style='background: #28a745; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; display: inline-block;'>Apply for Pilot</a></p>
+<p>[Your Name]<br>GrowthSignal</p>
+</div>","email","direct","pilot_program"
+3,"Your competitors are testing pricing changes. Are you watching?","Don't let competitor experiments catch you by surprise","GrowthSignal Team","hello@growthsignal.ai","Hi [First Name],
+
+Quick question: When was the last time you noticed a competitor change their pricing, features, or messaging?
+
+If you're not actively monitoring, you're missing valuable growth signals.
+
+GrowthSignal automatically tracks your competitors and alerts you to changes that could inform your next experiment.
+
+Recent example: We detected [Competitor] testing a new pricing tier. Our AI generated a Decision Pack suggesting a similar test could drive 15-25% revenue lift.
+
+The entire process took 2 hours instead of 2 weeks.
+
+Want to see what signals we're finding for your market? Check out our signal dashboard:
+https://growthsignal.ai/signals?utm_source=email&utm_medium=direct&utm_campaign=signal_demo
+
+[Your Name]
+GrowthSignal","<div style='font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;'>
+<p>Hi [First Name],</p>
+<p>Quick question: When was the last time you noticed a competitor change their pricing, features, or messaging?</p>
+<p>If you're not actively monitoring, you're missing valuable growth signals.</p>
+<p>GrowthSignal automatically tracks your competitors and alerts you to changes that could inform your next experiment.</p>
+<div style='background: #fff3cd; padding: 20px; border-radius: 8px; margin: 20px 0;'>
+<p><strong>Recent example:</strong> We detected <strong>[Competitor]</strong> testing a new pricing tier. Our AI generated a Decision Pack suggesting a similar test could drive <strong>15-25% revenue lift</strong>.</p>
+<p>The entire process took <strong>2 hours</strong> instead of 2 weeks.</p>
+</div>
+<p>Want to see what signals we're finding for your market? Check out our signal dashboard:</p>
+<p><a href='https://growthsignal.ai/signals?utm_source=email&utm_medium=direct&utm_campaign=signal_demo' style='background: #ffc107; color: #212529; padding: 12px 24px; text-decoration: none; border-radius: 6px; display: inline-block;'>View Signal Dashboard</a></p>
+<p>[Your Name]<br>GrowthSignal</p>
+</div>","email","direct","signal_demo"
+4,"The growth experiment that increased conversion by 40%","How we turned a competitor signal into a winning test","GrowthSignal Team","hello@growthsignal.ai","Hi [First Name],
+
+I wanted to share a quick case study that might interest you.
+
+Last month, we detected [Competitor] testing a new onboarding flow. Our AI analyzed the change and generated a hypothesis: "Adding a progress bar to our signup flow could increase conversion by 25-40%."
+
+The growth team at [Client Company] ran the test and saw a 38% increase in signup completion.
+
+Total time from signal detection to results: 3 days.
+
+This is the power of automated competitor intelligence combined with AI-driven hypothesis generation.
+
+Want to see how we could help your team identify similar opportunities? Book a 15-minute demo:
+https://growthsignal.ai/demo?utm_source=email&utm_medium=direct&utm_campaign=case_study
+
+[Your Name]
+GrowthSignal","<div style='font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;'>
+<p>Hi [First Name],</p>
+<p>I wanted to share a quick case study that might interest you.</p>
+<div style='background: #d1ecf1; padding: 20px; border-radius: 8px; margin: 20px 0;'>
+<p><strong>Last month, we detected [Competitor] testing a new onboarding flow.</strong> Our AI analyzed the change and generated a hypothesis: "Adding a progress bar to our signup flow could increase conversion by 25-40%."</p>
+<p>The growth team at <strong>[Client Company]</strong> ran the test and saw a <strong>38% increase</strong> in signup completion.</p>
+<p><strong>Total time from signal detection to results: 3 days.</strong></p>
+</div>
+<p>This is the power of automated competitor intelligence combined with AI-driven hypothesis generation.</p>
+<p>Want to see how we could help your team identify similar opportunities? Book a 15-minute demo:</p>
+<p><a href='https://growthsignal.ai/demo?utm_source=email&utm_medium=direct&utm_campaign=case_study' style='background: #17a2b8; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; display: inline-block;'>Book Demo</a></p>
+<p>[Your Name]<br>GrowthSignal</p>
+</div>","email","direct","case_study"
+5,"Your growth team is spending 80% of time on research, not execution","Automate competitor research, focus on what matters","GrowthSignal Team","hello@growthsignal.ai","Hi [First Name],
+
+I read that most growth teams spend 80% of their time on research and only 20% on execution.
+
+That means you're spending 4x more time analyzing competitors than actually running experiments.
+
+GrowthSignal flips this ratio by automating:
+• Competitor website monitoring
+• Signal analysis and prioritization
+• Hypothesis generation
+• Asset creation (landing pages, emails, copy)
+
+This frees your team to focus on what they do best: executing and optimizing experiments.
+
+We're offering a free 30-day trial to qualified growth teams. No credit card required.
+
+Interested? Apply here:
+https://growthsignal.ai/trial?utm_source=email&utm_medium=direct&utm_campaign=free_trial
+
+[Your Name]
+GrowthSignal","<div style='font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;'>
+<p>Hi [First Name],</p>
+<p>I read that most growth teams spend <strong>80% of their time on research</strong> and only <strong>20% on execution</strong>.</p>
+<p>That means you're spending 4x more time analyzing competitors than actually running experiments.</p>
+<p>GrowthSignal flips this ratio by automating:</p>
+<ul>
+<li>Competitor website monitoring</li>
+<li>Signal analysis and prioritization</li>
+<li>Hypothesis generation</li>
+<li>Asset creation (landing pages, emails, copy)</li>
+</ul>
+<p>This frees your team to focus on what they do best: <strong>executing and optimizing experiments</strong>.</p>
+<div style='background: #f8d7da; padding: 20px; border-radius: 8px; margin: 20px 0;'>
+<p><strong>We're offering a free 30-day trial</strong> to qualified growth teams. No credit card required.</p>
+</div>
+<p><a href='https://growthsignal.ai/trial?utm_source=email&utm_medium=direct&utm_campaign=free_trial' style='background: #dc3545; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; display: inline-block;'>Start Free Trial</a></p>
+<p>[Your Name]<br>GrowthSignal</p>
+</div>","email","direct","free_trial"
+6,"The growth experiment template that works every time","Stop guessing, start using evidence-backed experiments","GrowthSignal Team","hello@growthsignal.ai","Hi [First Name],
+
+What if every growth experiment you ran was based on real competitor data instead of gut instinct?
+
+GrowthSignal creates evidence-backed Decision Packs that include:
+• Clear hypothesis based on competitor signals
+• Expected lift predictions with confidence levels
+• Risk assessment and mitigation strategies
+• Ready-to-ship assets (landing pages, emails, copy)
+• GitHub PR creation for safe execution
+
+The result: Higher success rates and faster iteration cycles.
+
+We've helped teams increase their experiment success rate from 20% to 60%+.
+
+Want to see a Decision Pack in action? Check out this example:
+https://growthsignal.ai/example?utm_source=email&utm_medium=direct&utm_campaign=example_pack
+
+[Your Name]
+GrowthSignal","<div style='font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;'>
+<p>Hi [First Name],</p>
+<p>What if every growth experiment you ran was based on <strong>real competitor data</strong> instead of gut instinct?</p>
+<p>GrowthSignal creates evidence-backed Decision Packs that include:</p>
+<ul>
+<li>Clear hypothesis based on competitor signals</li>
+<li>Expected lift predictions with confidence levels</li>
+<li>Risk assessment and mitigation strategies</li>
+<li>Ready-to-ship assets (landing pages, emails, copy)</li>
+<li>GitHub PR creation for safe execution</li>
+</ul>
+<p>The result: <strong>Higher success rates and faster iteration cycles</strong>.</p>
+<div style='background: #d4edda; padding: 20px; border-radius: 8px; margin: 20px 0;'>
+<p>We've helped teams increase their experiment success rate from <strong>20% to 60%+</strong>.</p>
+</div>
+<p>Want to see a Decision Pack in action? Check out this example:</p>
+<p><a href='https://growthsignal.ai/example?utm_source=email&utm_medium=direct&utm_campaign=example_pack' style='background: #6f42c1; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; display: inline-block;'>View Example</a></p>
+<p>[Your Name]<br>GrowthSignal</p>
+</div>","email","direct","example_pack"
+7,"Your competitors are running 10x more experiments than you","Catch up with automated competitor intelligence","GrowthSignal Team","hello@growthsignal.ai","Hi [First Name],
+
+The average SaaS company runs 1-2 experiments per month.
+
+The top performers? 10-20 experiments per month.
+
+The difference? They have systems to continuously monitor competitors and turn signals into experiments.
+
+GrowthSignal gives you that system:
+• Automated competitor monitoring
+• AI-powered signal analysis
+• Instant hypothesis generation
+• Ready-to-ship experiment assets
+
+We're currently working with growth teams at companies like [Similar Company] to help them scale their experimentation velocity.
+
+Want to see how we could help your team run more experiments? Schedule a call:
+https://growthsignal.ai/schedule?utm_source=email&utm_medium=direct&utm_campaign=velocity
+
+[Your Name]
+GrowthSignal","<div style='font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;'>
+<p>Hi [First Name],</p>
+<p>The average SaaS company runs <strong>1-2 experiments per month</strong>.</p>
+<p>The top performers? <strong>10-20 experiments per month</strong>.</p>
+<p>The difference? They have systems to continuously monitor competitors and turn signals into experiments.</p>
+<p>GrowthSignal gives you that system:</p>
+<ul>
+<li>Automated competitor monitoring</li>
+<li>AI-powered signal analysis</li>
+<li>Instant hypothesis generation</li>
+<li>Ready-to-ship experiment assets</li>
+</ul>
+<div style='background: #e2e3e5; padding: 20px; border-radius: 8px; margin: 20px 0;'>
+<p>We're currently working with growth teams at companies like <strong>[Similar Company]</strong> to help them scale their experimentation velocity.</p>
+</div>
+<p>Want to see how we could help your team run more experiments? Schedule a call:</p>
+<p><a href='https://growthsignal.ai/schedule?utm_source=email&utm_medium=direct&utm_campaign=velocity' style='background: #6c757d; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; display: inline-block;'>Schedule Call</a></p>
+<p>[Your Name]<br>GrowthSignal</p>
+</div>","email","direct","velocity"
+8,"The growth experiment that failed (and what we learned)","Why most growth experiments fail (and how to fix it)","GrowthSignal Team","hello@growthsignal.ai","Hi [First Name],
+
+Last month, we helped a client test a new pricing page based on competitor signals.
+
+The experiment failed - conversion dropped by 15%.
+
+But here's what we learned: The competitor's change was part of a larger strategy shift, not an isolated test. Our AI missed the broader context.
+
+We've since improved our signal analysis to capture:
+• Broader market trends
+• Competitor strategy patterns
+• Risk assessment factors
+• Success probability scoring
+
+The result: More accurate hypotheses and better experiment outcomes.
+
+Want to see our improved approach? Check out our methodology:
+https://growthsignal.ai/methodology?utm_source=email&utm_medium=direct&utm_campaign=methodology
+
+[Your Name]
+GrowthSignal","<div style='font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;'>
+<p>Hi [First Name],</p>
+<p>Last month, we helped a client test a new pricing page based on competitor signals.</p>
+<p>The experiment failed - conversion dropped by 15%.</p>
+<p>But here's what we learned: The competitor's change was part of a larger strategy shift, not an isolated test. Our AI missed the broader context.</p>
+<div style='background: #fff3cd; padding: 20px; border-radius: 8px; margin: 20px 0;'>
+<p><strong>We've since improved our signal analysis to capture:</strong></p>
+<ul>
+<li>Broader market trends</li>
+<li>Competitor strategy patterns</li>
+<li>Risk assessment factors</li>
+<li>Success probability scoring</li>
+</ul>
+</div>
+<p>The result: <strong>More accurate hypotheses and better experiment outcomes</strong>.</p>
+<p>Want to see our improved approach? Check out our methodology:</p>
+<p><a href='https://growthsignal.ai/methodology?utm_source=email&utm_medium=direct&utm_campaign=methodology' style='background: #fd7e14; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; display: inline-block;'>View Methodology</a></p>
+<p>[Your Name]<br>GrowthSignal</p>
+</div>","email","direct","methodology"
+9,"Your growth team needs a competitive intelligence system","Stop flying blind - get competitor insights automatically","GrowthSignal Team","hello@growthsignal.ai","Hi [First Name],
+
+How do you currently track competitor changes?
+
+If you're like most growth teams, you're either:
+• Manually checking competitor websites (time-consuming)
+• Using generic monitoring tools (not growth-focused)
+• Relying on industry news (too late)
+
+GrowthSignal provides growth-specific competitive intelligence:
+• Automated monitoring of pricing, features, messaging
+• AI analysis of growth implications
+• Instant alerts when competitors make changes
+• Ready-to-ship experiment recommendations
+
+We're offering a free competitive intelligence audit for qualified growth teams.
+
+Want to see what we'd find for your market? Apply here:
+https://growthsignal.ai/audit?utm_source=email&utm_medium=direct&utm_campaign=intelligence_audit
+
+[Your Name]
+GrowthSignal","<div style='font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;'>
+<p>Hi [First Name],</p>
+<p>How do you currently track competitor changes?</p>
+<p>If you're like most growth teams, you're either:</p>
+<ul>
+<li>Manually checking competitor websites (time-consuming)</li>
+<li>Using generic monitoring tools (not growth-focused)</li>
+<li>Relying on industry news (too late)</li>
+</ul>
+<p>GrowthSignal provides growth-specific competitive intelligence:</p>
+<ul>
+<li>Automated monitoring of pricing, features, messaging</li>
+<li>AI analysis of growth implications</li>
+<li>Instant alerts when competitors make changes</li>
+<li>Ready-to-ship experiment recommendations</li>
+</ul>
+<div style='background: #cce5ff; padding: 20px; border-radius: 8px; margin: 20px 0;'>
+<p><strong>We're offering a free competitive intelligence audit</strong> for qualified growth teams.</p>
+</div>
+<p>Want to see what we'd find for your market? Apply here:</p>
+<p><a href='https://growthsignal.ai/audit?utm_source=email&utm_medium=direct&utm_campaign=intelligence_audit' style='background: #0056b3; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; display: inline-block;'>Get Free Audit</a></p>
+<p>[Your Name]<br>GrowthSignal</p>
+</div>","email","direct","intelligence_audit"
+10,"The growth experiment that increased revenue by $50K in 30 days","How we turned a competitor signal into $50K in revenue","GrowthSignal Team","hello@growthsignal.ai","Hi [First Name],
+
+I wanted to share a recent success story that might interest you.
+
+We detected [Competitor] testing a new enterprise pricing tier. Our AI analyzed the change and generated a hypothesis for [Client Company]: "Adding an enterprise tier could increase ARR by $40-60K per month."
+
+The team ran the test and saw a $52K increase in monthly recurring revenue within 30 days.
+
+Total time from signal detection to revenue impact: 45 days.
+
+This is the power of automated competitor intelligence combined with rapid experiment execution.
+
+Want to see how we could help your team identify similar revenue opportunities? Book a strategy session:
+https://growthsignal.ai/strategy?utm_source=email&utm_medium=direct&utm_campaign=revenue_story
+
+[Your Name]
+GrowthSignal","<div style='font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;'>
+<p>Hi [First Name],</p>
+<p>I wanted to share a recent success story that might interest you.</p>
+<div style='background: #d1ecf1; padding: 20px; border-radius: 8px; margin: 20px 0;'>
+<p><strong>We detected [Competitor] testing a new enterprise pricing tier.</strong> Our AI analyzed the change and generated a hypothesis for <strong>[Client Company]</strong>: "Adding an enterprise tier could increase ARR by $40-60K per month."</p>
+<p>The team ran the test and saw a <strong>$52K increase in monthly recurring revenue</strong> within 30 days.</p>
+<p><strong>Total time from signal detection to revenue impact: 45 days.</strong></p>
+</div>
+<p>This is the power of automated competitor intelligence combined with rapid experiment execution.</p>
+<p>Want to see how we could help your team identify similar revenue opportunities? Book a strategy session:</p>
+<p><a href='https://growthsignal.ai/strategy?utm_source=email&utm_medium=direct&utm_campaign=revenue_story' style='background: #20c997; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; display: inline-block;'>Book Strategy Session</a></p>
+<p>[Your Name]<br>GrowthSignal</p>
+</div>","email","direct","revenue_story"
