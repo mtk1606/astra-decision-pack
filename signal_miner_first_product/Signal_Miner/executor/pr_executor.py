@@ -6,6 +6,14 @@ from datetime import datetime, timezone
 from typing import Dict, Any, List, Optional, Tuple
 from urllib.parse import urlparse
 
+# Ensure Github symbol exists for tests/mocking
+try:
+    from github import Github  # from PyGithub
+except Exception:
+    class Github:
+        def __init__(self, *args, **kwargs):
+            raise RuntimeError("PyGithub not available; this is a test placeholder.")
+
 
 def now_stamp() -> str:
     return datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
@@ -40,11 +48,11 @@ def generate_pr_content(pack: Dict[str, Any], domain: str) -> Dict[str, Any]:
     lp_filename = f"landing_pages/{domain}_{stamp}.html"
     
     # Generate commit message
-    hypothesis = pack.get("hypothesis", "")
-    expected_lift = pack.get("expected_lift", {})
-    lift_text = f"{expected_lift.get('level', 'medium')} lift on {expected_lift.get('metric', 'conversion')}"
-    
-    commit_message = f"Add growth experiment: {title}\n\nHypothesis: {hypothesis[:100]}...\nExpected: {lift_text}"
+    commit_message = (
+        f"Add growth experiment: {pack.get('title','untitled')} ({domain})\n\n"
+        f"Hypothesis: {pack.get('hypothesis','')}\n"
+        f"Expected: {pack.get('expected_lift',{})}\n"
+    )
     
     return {
         "branch_name": branch_name,

@@ -7,6 +7,19 @@ from typing import Any, Dict, List, Tuple
 
 from .pinecone_helper import get_store
 
+# Expose OpenAI symbol for tests so it can be patched.
+# Prefer real OpenAI class if available, otherwise provide a simple wrapper.
+try:
+    from openai import OpenAI  # modern imports (if available)
+except Exception:
+    import openai as _openai
+    class OpenAI:
+        def __init__(self, **kwargs):
+            # wrap the openai module so tests can patch the OpenAI symbol
+            self._client = _openai
+        def __getattr__(self, name):
+            return getattr(self._client, name)
+
 
 def now_stamp() -> str:
     return datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
